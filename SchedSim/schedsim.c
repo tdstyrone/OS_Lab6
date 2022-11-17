@@ -1,4 +1,5 @@
 // C program for implementation of Simulation 
+// Tyrone Smith + Deante Taylor
 #include<stdio.h> 
 #include<limits.h>
 #include<stdlib.h>
